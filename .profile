@@ -9,3 +9,4 @@ PYENV_ROOT=$HOME/.pyenv
 export DOTNET_CLI_TELEMETRY_OPTOUT HOMEBREW_NO_ANALYTICS HOMEBREW_NO_AUTO_UPDATES PATH
 
 eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
