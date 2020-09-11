@@ -3,3 +3,4 @@
 !.profile
 !bin
 !bin/dgit
+!.pyenv
