@@ -1,0 +1,5 @@
+set constantshow
+set nohelp
+set nonewlines
+set tabsize 4
+#include "/usr/local/opt/nano/share/nano/*.nanorc"
