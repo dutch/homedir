@@ -1,3 +1,4 @@
 [submodule ".pyenv"]
 	path = .pyenv
-	url = https://github.com/pyenv/pyenv.git
+	url = https://github.com/dutch/pyenv.git
+	branch = dutch/plugins
