@@ -5,3 +5,6 @@
 !bin/dgit
 !.pyenv
 !.nanorc
+!.config
+!.config/alacritty
+!.config/alacritty/alacritty.yml

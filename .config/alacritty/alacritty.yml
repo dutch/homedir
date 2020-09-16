@@ -1,0 +1,11 @@
+---
+window:
+  dimensions:
+    columns: 100
+    lines: 30
+font:
+  normal:
+    family: Source Code Pro
+    style: Medium
+  size: 14.0
+  use_thin_strokes: true
